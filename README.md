@@ -1,6 +1,6 @@
 ### Welcome To Abdur Rahman's Github 👋
 
-![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ARahmanLskit&color=blueviolet)
 
 <!-- profile view counter -->
 <!-- <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> -->
@@ -26,7 +26,7 @@
 
 <!-- technology i use -->
 
-<!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial)-->
+<!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/ARahmanLskit)-->
 
 <!-- my banner page -->
 
